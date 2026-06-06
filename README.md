@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidancarley08 -
 - 👀 I’m interested in: Nature, Cars, Coding, Photography, & Drawing
-- 🌱 I’m currently learning: Anything related to Wed Development/Design (HTML, CSS, JavaScript, etc.)
+- 🌱 I’m currently learning: Python & Machine Learning
 - 💞️ I’m looking to collaborate on: Nothing (At The Moment)
 - 📫 How to reach me: You can contact me on my work email. (ajcarley2008@gmail.com)
 - 😄 Pronouns: He/Him
